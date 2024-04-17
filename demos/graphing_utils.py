@@ -1,4 +1,4 @@
-from two_way.src.csi_poller import CSIGenerator
+from ofdm_tof.src.csi_poller import CSIGenerator
 from typing import Callable, Optional, Any
 import numpy as np
 from matplotlib import animation as anim

@@ -1,5 +1,5 @@
-from two_way.src.csi_poller import CSIGenerator
-from two_way.src.utils import interpolate_zsc
+from ofdm_tof.src.csi_poller import CSIGenerator
+from ofdm_tof.src.utils import interpolate_zsc
 from matplotlib import pyplot as plt
 import matplotlib as mpl
 from matplotlib import animation

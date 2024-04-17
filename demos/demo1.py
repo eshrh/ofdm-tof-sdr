@@ -1,4 +1,4 @@
-from two_way.src.csi_poller import CSIGenerator
+from ofdm_tof.src.csi_poller import CSIGenerator
 from matplotlib import pyplot as plt
 import matplotlib as mpl
 from matplotlib import animation
